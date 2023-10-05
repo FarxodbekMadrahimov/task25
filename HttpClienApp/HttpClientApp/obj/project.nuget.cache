@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4jlQ8FXzRKJHIkuqtr+5Q/Swtfe5heKVGct2HqnpfMOgCJNGL8Q3+wMSWYMa1sVV8hhV9G1pl3SiF/5EJ7U5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\farho\\Downloads\\HttpClientAppTask25-master\\HttpClientAppTask25-master\\HttpClientApp\\HttpClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
